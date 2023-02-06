@@ -1,1 +1,1 @@
-# Currency-Thai-Bath
+# Currency-Thai-Baht
